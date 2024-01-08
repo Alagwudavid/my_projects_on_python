@@ -15,8 +15,9 @@ We welcome all students to join this project!  Feel free to fork this repo, add 
 4. You can now analyze my python files.
 
 ## Simple-Calculator
-- this is a simple python calculator that calculates using the mathematical expressions ```i.e: +, - , *, %``` for a one-time solving.  
-- Code: ```def calculator():
+- this is a simple python calculator that calculates using the mathematical expressions ```i.e: +, - , *, %``` for a one-time solving.
+- code below:
+```def calculator():
     num1, sign, num2 = input("clc: ").split()
     num1 = int(num1)
     num2 = int(num2)
