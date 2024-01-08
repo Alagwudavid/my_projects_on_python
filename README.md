@@ -16,26 +16,19 @@ We welcome all students to join this project!  Feel free to fork this repo, add 
 
 ## Simple-Calculator
 - this is a simple python calculator that calculates using the mathematical expressions ```i.e: +, - , *, %``` for a one-time solving.
-- code below:
-```def calculator():
-    num1, sign, num2 = input("clc: ").split()
-    num1 = int(num1)
-    num2 = int(num2)
-    if sign == "*":
-        answer = num1 * num2
-        print("ans: {}".format(answer))
-    elif sign == "+":
-        answer = num1 + num2
-        print("ans: {}".format(answer))
-    elif sign == "/":
-        answer = num1 / num2
-        print("ans: {}".format(answer))
-    elif sign == "%" and num2 > 0:
-        answer = num1 % num2
-        print("ans: {}".format(answer))
-    else:
-        print("Invalid operator. Please use +, -, *, /, or %.")
-calculator()```
+  - code below:
+    ```
+    def calculator():
+      num1, sign, num2 = input("clc: ").split()
+      num1 = int(num1)
+      num2 = int(num2)
+      if sign == "*":
+      ...
+        ### view file to view full version
+      ...
+      else:
+          print("Invalid operator. Please use +, -, *, /, or %.")
+    calculator()```
 
 # Notice
 this projects are my beginner projects on my self taught python language learning journey, if there is any way the codes in any way you debug and identify a bug you can contact or request to correct the codes to improve my learning journey.
