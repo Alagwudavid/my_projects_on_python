@@ -6,7 +6,7 @@ We welcome all students to join this project!  Feel free to fork this repo, add 
 # Contents
 * Table of Contents
   * [Getting Started](#Getting-started)
-  * [Simple Calculator](#)
+  * [Simple Calculator](#simple-calculator)
 
 ## Getting-Started:
 1. Clone this repository or download the zip file.
