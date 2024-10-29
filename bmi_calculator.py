@@ -1,5 +1,5 @@
 import  math
-print(f"{'#'*3}BMI WEIGHT CALC...{'#'*3}")
+print(f"{'*'*3}BMI WEIGHT CALCULATOR{'*'*3}")
 
 weight = input("Enter weight in Kg: ")
 height = input("Enter height in metres: ")

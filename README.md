@@ -30,6 +30,33 @@ We welcome all students to join this project!  Feel free to fork this repo, add 
           print("Invalid operator. Please use +, -, *, /, or %.")
     calculator()```
 
+# Class method
+```
+Class Name:
+    static_variable = "comes before a method def __init__(self, arg=value)"
+
+def main():
+    Name.static_variable //to access the static variable in your methods
+main()
+```
+# Constant Variables on python
+Fixed or Constant variables can be achieved and accessed in the program by typing variable name in uppercase and cannot be changed later in the program except from the main variable itself
+```
+EXAMPLE_CONSTANT = 20
+```
+# Lists
+```
+creating a list:
+using "variable_name = []"
+```
+
+# Dictionary items
+```
+symbols = {"A": 2, "B":4, "C":6, "D":8}
+
+for symbol, symbol_count in symbols.items():
+```
+
 # Notice
 this projects are my beginner projects on my self taught python language learning journey, if there is any way the codes in any way you debug and identify a bug you can contact or request to correct the codes to improve my learning journey.
 
